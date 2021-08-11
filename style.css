@@ -19,6 +19,10 @@ a {
   margin: 12px 24px 0 24px;
 }
 
+.fas {
+  left: 500px;
+}
+
 .fab {
   color: gray;
   margin: 10px 5px 0 5px;
@@ -67,8 +71,8 @@ a {
 }
 
 .navbar {
+  width: 330px;
   display: flex;
   justify-content: space-between;
-  width: 80%;
   margin: 12px 24px 0 24px;
 }
