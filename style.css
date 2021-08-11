@@ -5,6 +5,11 @@
   font-family: Poppins, sans-serif;
 }
 
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
 .connect {
   color: #6070ff;
   font-family: Poppins, sans-serif;
