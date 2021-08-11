@@ -1,0 +1,79 @@
+.logo {
+    color:#6070FF;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: Poppins;
+}
+
+.connect {
+  color:#6070FF;
+  font-family: Poppins;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  margin: 12px 24px 0px 24px;
+}
+
+.fab {
+    color: gray;
+    margin: 0 5px 0 5px;
+}
+
+.contact {
+  margin: 12px 24px 0px 24px;
+}
+
+.backimg {
+    background-image: url("img/background.png");
+    background-repeat: no-repeat;
+}
+
+.header-welcome {
+  color:#37373b;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 52px;
+  display: flex;
+  align-items: center;
+  position: static;
+  width: 327px;
+  height: 150px;
+  left: 24px;
+  top: 114px;
+  order: 0;
+  flex-grow: 0;
+  margin: 12px 24px 0px 24px;
+}
+
+.introduction {
+  font-family: Poppins;
+  font-weight: 400;
+  position: static;
+  width: 327px;
+  height: 146px;
+  left: 24px;
+  top: 276px;
+  /* Body / 2 */
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  /* or 150% */
+  /* Neutrals/N600 */
+  color: #344563;
+  /* Inside Auto Layout */
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+  margin: 12px 24px 0px 24px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: 12px 24px 0px 24px;
+}
