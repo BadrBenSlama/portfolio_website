@@ -2,58 +2,36 @@
 
 # Project Name
 
-> One paragraph statement about the project.
+> Portfolio Website Mobile version
 
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
+![screenshot](./screenshot.png)
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML5 / CSS3
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://goldinium.github.io/portfolio_website/)
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+Clone using HTTPS
+https://github.com/Goldinium/portfolio_website.git
 
-### Setup
+OR
 
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+Clone using SSH 
+git@github.com:Goldinium/portfolio_website.git
 
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@goldinium](https://github.com/goldinium)
 
 ## 🤝 Contributing
 
