@@ -12,7 +12,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://goldinium.github.io/portfolio_website/)
+[Live Demo Link](https://badrbenslama.github.io/portfolio_website/)
 
 
 ## Getting Started
@@ -20,18 +20,18 @@
 To get a local copy up and running follow these simple example steps.
 
 Clone using HTTPS
-https://github.com/Goldinium/portfolio_website.git
+https://github.com/badrbenslama/portfolio_website.git
 
 OR
 
 Clone using SSH 
-git@github.com:Goldinium/portfolio_website.git
+git@github.com:badrbenslama/portfolio_website.git
 
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@goldinium](https://github.com/goldinium)
+- GitHub: [@badrbenslama](https://github.com/badrbenslama)
 
 ## 🤝 Contributing
 
